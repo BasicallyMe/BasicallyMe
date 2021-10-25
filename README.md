@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BasicallyMe
+- 👋 Hi, I’m @BasicallyCodes
 - 👀 I’m interested in creating stuff
 - 🌱 I’m currently learning to build apps
 - 💞️ I’m looking to collaborate on app development
