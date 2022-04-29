@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Abajit Dey
-- 👀 I’m interested in creating stuff
-- 🌱 I’m currently learning to build web-apps
-- 💞️ I’m looking to collaborate on front-end development
-- 📫 How to reach me @basicallycodes on instagram
+- 👀 I like building, breaking and learning new thing
+- 🌱 I’m currently learning web-dev, and game-dev on the side
+- 💞️ Building projects, sharing, and having fun
+- 📫 How to reach me @justAbajit on twitter
 
 <!---
 BasicallyMe/BasicallyMe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
