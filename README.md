@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abajit Dey
-- 👀 I like building, breaking and learning new thing
+- 👀 I like building, breaking and learning new things
 - 🌱 I’m currently learning web-dev, and game-dev on the side
 - 💞️ Building projects, sharing, and having fun
 - 📫 How to reach me @justAbajit on twitter
